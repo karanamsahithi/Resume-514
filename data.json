@@ -1,0 +1,49 @@
+  {
+    "basics":
+    {
+    "photo":"happy.jpg",
+    "name":"sahithi",
+    "phone":"9441222005",
+    "email":"sahithijuly23@gmail.com"
+  },
+"skills":[
+  {
+    "name":"programming languages",
+    "value":"c,c++,JAVA"
+  },
+     {
+      "name":"operating systems",
+      "value":"windows, Lunix"
+},
+{
+      "name":"web technologies",
+      "value":"HTML, css ,javascript, phython"
+    }
+],
+"education":[
+{
+  "course":"B.Tech(computer science and engineering)",
+  "college":[
+    "sri venkateswara institute of technology",
+    "2015-2019",
+    "65%"
+  ]
+},
+{
+  "course":"intermediate(mpc)",
+  "college":[
+    "sri Narayana junior college",
+    "2013-2015",
+    "65%"
+  ]
+},
+{
+  "course":"ssc",
+  "college":[
+    "z.p.High School",
+    "2012-2013",
+    "65%"
+  ]
+}
+]
+}
